@@ -37,14 +37,6 @@ The dataset used is **employee_attrition.csv**, which contains employee details 
 
 ---
 
-## 📊 Example ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
-*(Add your ROC curve plot in an `images/` folder and update the path above.)*
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repo:
